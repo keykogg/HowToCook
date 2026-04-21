@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tips/sss.md",
+                "file": "tips/learn/学习蒸.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sss"
+              "title": "学习蒸"
             }
           }
         ]
@@ -184,10 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92b83e5b9141f302",
+  "active": "87620a92d58c4ebc",
   "lastOpenFiles": [
-    "tips/learn/去腥.md",
     "tips/sss.md",
+    "tips/learn/去腥.md",
     "CODE_OF_CONDUCT.md",
     "tips/厨房准备.md",
     "tips/advanced/辅料技巧.md",
